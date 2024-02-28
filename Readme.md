@@ -1,7 +1,5 @@
 # Projet 1 : Capture The Flag – CTF
 
-## Profil : Cyber
-
 ## Objectif du Projet
 L'objectif principal de ce projet est de permettre aux étudiants de développer des compétences en sécurité offensive (attaquante) et en sécurité défensive (défense) en simulant un environnement de Capture The Flag (CTF). Les équipes devront concevoir des défenses robustes tout en explorant et exploitant les vulnérabilités des systèmes adverses.
 
