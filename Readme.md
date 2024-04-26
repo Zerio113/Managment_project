@@ -3,6 +3,8 @@
 ## Objectif du Projet
 L'objectif principal de ce projet est de permettre aux étudiants de développer des compétences en sécurité offensive (attaquante) et en sécurité défensive (défense) en simulant un environnement de Capture The Flag (CTF). Les équipes devront concevoir des défenses robustes tout en explorant et exploitant les vulnérabilités des systèmes adverses.
 
+----
+
 ## Étapes du Projet
 
 ### Conception de l'Environnement CTF
@@ -13,6 +15,26 @@ L'objectif principal de ce projet est de permettre aux étudiants de développer
 ### Formation des Équipes
 - Les étudiants sont divisés en deux équipes : une équipe attaquante et une équipe de défense.
 - L'équipe attaquante doit comprendre les différentes méthodes d'attaque, tandis que l'équipe de défense doit mettre en place des mécanismes de détection et de prévention.
+
+### Gwendal Pruny : 
+
+Scrum master | Dev team | Blue team
+
+### Remi Madeira : 
+
+PO | Dev team | Red team
+
+### Adrien Francois : 
+
+PO | Dev team | Red team
+
+### Guillaume Simoes: 
+
+PO | Dev team | Blue team
+
+----
+
+![Tableau](./Capture%20d'écran%202024-04-26%20100206.png "tableau").
 
 ### Déroulement de l'Exercice CTF
 - La compétition commence avec l'équipe attaquante recevant des informations minimales sur l'environnement CTF.
